@@ -1,7 +1,7 @@
 
-# Azure Blob Storage and Dotnet Application
+# Dotnet MVC Application with Azure Blob Storage Integration
 
-Welcome to my Azure Blob Storage and Dotnet Application project! This repository demonstrates the integration of Azure Blob Storage with a Dotnet 6 application, offering practical insights into managing blobs and containers.
+Welcome to my Dotnet MVC Application with Azure Blob Storage Integration project! This repository demonstrates the integration of Azure Blob Storage with a Dotnet 6 application, offering practical insights into managing blobs and containers.
 
 
 ## Overview
